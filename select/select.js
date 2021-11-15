@@ -21,6 +21,7 @@ const getTemplate = (data = [], placeholder, selectedId) => {   // Робимо 
         <div class="select__input" data-type="input">
           <span data-type="value">${text}</span>
           <i class="fas fa-chevron-down" data-type="arrow"></i>
+         
         </div>
 
         <div class="select__dropdown">
