@@ -1,5 +1,7 @@
 # Select
 
+<i class="fab fa-js-square"></i>
+
 ? - означає якщо в цьому елементі,
 щось є тоді ми це вибираємо. ( this.options.onSelect ? this.options.onSelect(this.current) : null)
 : - означає або (or)
